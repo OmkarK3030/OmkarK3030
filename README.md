@@ -17,13 +17,6 @@ I’m a detail-oriented and impact-driven Product Manager passionate about build
 
 ## 💼 Projects
 
-### 📦 [Blinkit Product Growth and Analytics](https://github.com/OmkarK3030/blinkit)
-A strategic case study analyzing Blinkit's customer behavior, identifying pain points, and proposing features like real-time tracking, wishlist, and loyalty programs to boost retention and AOV.
-
-> **Tags:** Product Strategy, UX Research, Growth Metrics, Competitive Analysis
-
----
-
 ### 🤝 [Community Group Ordering – Quick Commerce](https://github.com/OmkarK3030/quick-commerce-feature)
 A feature PRD enabling users in shared spaces to place joint orders, reduce delivery costs, and increase platform engagement. Focuses on personas, use cases, and backend logistics.
 
